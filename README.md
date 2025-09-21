@@ -25,4 +25,7 @@ streamlit run app.py
 - Cohere Chat API 
  
 ## Author 
-Your Name 
+Sadhuram Agarwal
+Rudraksh
+Satyam Raj
+
